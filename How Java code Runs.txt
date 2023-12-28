@@ -1,0 +1,1 @@
+source code>compiler(compilation)>.class file(byte code)>jvm(EXECUTION)>native code(os independent code ie platform independent)
