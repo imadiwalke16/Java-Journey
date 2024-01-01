@@ -14,7 +14,7 @@ public class Index {
         /*
          * binary operator 2 operand with one operation (+-/*%)%modulo
          * unary single operator (++/--) a=a+1 or a++;a--
-         * increment operator (++):
+          * increment operator (++):
          * pre:value change then use
          * post:use>then change
          */
@@ -38,7 +38,7 @@ public class Index {
         System.out.println(a_b);
         System.out.println(y);
         System.out.println(z);
-        
+         
         /*TYPES OF OPERATORS(RELATIONAL):
          * ==/!=/>/</>=/<=
          */
@@ -73,7 +73,7 @@ System.out.println(b);
 
 
 
-
+ 
     }
     
 }
